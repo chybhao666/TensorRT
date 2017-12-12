@@ -30,5 +30,10 @@ The latest TensorRT 3 release introduces a fully-featured Python API, which enab
 
 # Pull CUDA-9.0 + CUDNN_7.0 + TensorRT-3.0 GA docker image
 
+	docker pull chybhao666/cuda9_cudnn7_tensorrt3.0:latest
+
+Play docker image:
+	nvidia-docker run -it --net=host chybhao666/cuda9_cudnn7_tensorrt3.0:latest
+
 
 
