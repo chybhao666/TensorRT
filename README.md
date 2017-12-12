@@ -1,6 +1,15 @@
-# TensorRT
+README
+===========================
 This repository contains docker image of ubuntu16.04+cuda9.0+cudnn7.0+tensorrt3.0
-t
+
+****
+	
+|Author|Alex Cheng|
+|---|---
+|E-mail|chybhao666@126.com
+
+
+# TensorRT
 The following sentences are quited from https://devblogs.nvidia.com/parallelforall/int8-inference-autonomous-vehicles-tensorrt/, which is developed by Joohoon Lee.
 
 
